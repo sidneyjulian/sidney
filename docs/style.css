@@ -656,11 +656,11 @@ header {
 #connect-section img {
   padding-top: 60px;
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   grid-gap: -100px;
   list-style: none;
   margin: 0;
-  width: 55%;
+  width: 35%;
   margin-left: 100px;
   margin-right: 65px;
 }
