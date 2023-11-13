@@ -1,3 +1,9 @@
+document.addEventListener("DOMContentLoaded", function () {
+    var logoContainer = document.getElementById("logo-container");
+
+    // Add additional animations or movements here
+    // Example: logoContainer.style.animation = "yourAnimation 2s ease-in-out";
+});
 
 
 // Skills Animate Width
